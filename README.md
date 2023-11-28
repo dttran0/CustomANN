@@ -10,7 +10,7 @@ Assume a new conda environment, perform this command:
 
 `pip install -r requirements.txt`
 
-#Downloading the dataset:
+# Downloading the dataset:
 
 CIFAR-10: using the CIFAR-10 API within the Jupyter File (automatically downloading)
 
